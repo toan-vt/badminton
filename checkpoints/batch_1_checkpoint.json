@@ -1,0 +1,680 @@
+[
+  {
+    "title": "CSIM x FacOps Sp26 Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342235928",
+    "event_id": "1342235928",
+    "description": "Tuesday, December 2, 2025, 2 - 3:30pm Woodruff PE Center 2nd conference room"
+  },
+  {
+    "title": "Men's Tennis Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302257341",
+    "event_id": "1302257341",
+    "description": "Wednesday, December 3, 2025, 2:30 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "DANC 123R 2 2756",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285069853",
+    "event_id": "1285069853",
+    "description": "Thursday, December 4, 2025, 2:30 - 3:45pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290869217",
+    "event_id": "1290869217",
+    "description": "Friday, December 5, 2025, 6:30 - 9pm Woodruff PE Center Court #4"
+  },
+  {
+    "title": "Men's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424498",
+    "event_id": "1302424498",
+    "description": "Monday, December 1, 2025, 3 - 5pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "PE 194 2 3617",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285773998",
+    "event_id": "1285773998",
+    "description": "Tuesday, December 2, 2025, 2:30 - 3:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Men's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424502",
+    "event_id": "1302424502",
+    "description": "Wednesday, December 3, 2025, 3 - 5pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "Swim/Dive Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411652",
+    "event_id": "1290411652",
+    "description": "Thursday, December 4, 2025, 2:30 - 5:30pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290869218",
+    "event_id": "1290869218",
+    "description": "Friday, December 5, 2025, 6:30 - 9pm Woodruff PE Center Court #3"
+  },
+  {
+    "title": "Swim/Dive Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411646",
+    "event_id": "1290411646",
+    "description": "Monday, December 1, 2025, 3 - 5:30pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "Group Fitness Presentation",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342322108",
+    "event_id": "1342322108",
+    "description": "Tuesday, December 2, 2025, 2:30 - 3:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "WBB Pregame Meal",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1336281928",
+    "event_id": "1336281928",
+    "description": "Wednesday, December 3, 2025, 3:30 - 4:30pm Woodruff PE Center small class room"
+  },
+  {
+    "title": "Women's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424504",
+    "event_id": "1302424504",
+    "description": "Thursday, December 4, 2025, 3 - 5pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "CS BJJ",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105702",
+    "event_id": "1292105702",
+    "description": "Friday, December 5, 2025, 7 - 8:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "PE 191 1 3609",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285773996",
+    "event_id": "1285773996",
+    "description": "Monday, December 1, 2025, 4 - 5:15pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "DANC 123R 2 2756",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285069851",
+    "event_id": "1285069851",
+    "description": "Tuesday, December 2, 2025, 2:30 - 3:45pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "WBB Pregame Meal",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1336261922",
+    "event_id": "1336261922",
+    "description": "Wednesday, December 3, 2025, 3:30 - 4:30pm Woodruff PE Center small class room"
+  },
+  {
+    "title": "Tennis Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325134969",
+    "event_id": "1325134969",
+    "description": "Thursday, December 4, 2025, 3 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "Savera Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1307679114",
+    "event_id": "1307679114",
+    "description": "Friday, December 5, 2025, 7 - 8:45pm SAAC 211"
+  },
+  {
+    "title": "Choreography I",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1308170198",
+    "event_id": "1308170198",
+    "description": "Monday, December 1, 2025, 4 - 5:30pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "Swim/Dive Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411648",
+    "event_id": "1290411648",
+    "description": "Tuesday, December 2, 2025, 2:30 - 5:30pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "PE 191 1 3609",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285774001",
+    "event_id": "1285774001",
+    "description": "Wednesday, December 3, 2025, 4 - 5:15pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Tennis Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325141321",
+    "event_id": "1325141321",
+    "description": "Thursday, December 4, 2025, 3 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "CS Women's Volleyball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290841443",
+    "event_id": "1290841443",
+    "description": "Friday, December 5, 2025, 7 - 9pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1313833358",
+    "event_id": "1313833358",
+    "description": "Monday, December 1, 2025, 4 - 6:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
+    "title": "Women's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424500",
+    "event_id": "1302424500",
+    "description": "Tuesday, December 2, 2025, 3 - 5pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1313836782",
+    "event_id": "1313836782",
+    "description": "Wednesday, December 3, 2025, 4 - 6:30pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "Athletic PLG",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1334726509",
+    "event_id": "1334726509",
+    "description": "Thursday, December 4, 2025, 3 - 4:30pm Woodruff PE Center small class room"
+  },
+  {
+    "title": "Women's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424499",
+    "event_id": "1302424499",
+    "description": "Monday, December 1, 2025, 5 - 7pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "Tennis Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325134967",
+    "event_id": "1325134967",
+    "description": "Tuesday, December 2, 2025, 3 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "PE 296 1 5392",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1285773113",
+    "event_id": "1285773113",
+    "description": "Wednesday, December 3, 2025, 4 - 5:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "MB v Huntingdon",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1286577810",
+    "event_id": "1286577810",
+    "description": "Thursday, December 4, 2025, 3:30 - 8:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
+  },
+  {
+    "title": "MSOC Film",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342023839",
+    "event_id": "1342023839",
+    "description": "Monday, December 1, 2025, 5 - 5:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "Tennis Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325141319",
+    "event_id": "1325141319",
+    "description": "Tuesday, December 2, 2025, 3 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "Choreography I",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1308170201",
+    "event_id": "1308170201",
+    "description": "Wednesday, December 3, 2025, 4 - 5pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "WBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1313849257",
+    "event_id": "1313849257",
+    "description": "Thursday, December 4, 2025, 4 - 6:30pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "Feel Good Yoga (Martine)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293151778",
+    "event_id": "1293151778",
+    "description": "Monday, December 1, 2025, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "DANC 150R 1 2758",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1248425841",
+    "event_id": "1248425841",
+    "description": "Tuesday, December 2, 2025, 4 - 5:15pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "WB v LaGrange",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1286577809",
+    "event_id": "1286577809",
+    "description": "Wednesday, December 3, 2025, 4 - 9pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
+  },
+  {
+    "title": "ECS 101",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1273924116",
+    "event_id": "1273924116",
+    "description": "Thursday, December 4, 2025, 4 - 5pm "
+  },
+  {
+    "title": "CS JUICE",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1296650807",
+    "event_id": "1296650807",
+    "description": "Monday, December 1, 2025, 6 - 9pm Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "WBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1341094016",
+    "event_id": "1341094016",
+    "description": "Tuesday, December 2, 2025, 4 - 6:30pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
+    "title": "Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325134968",
+    "event_id": "1325134968",
+    "description": "Wednesday, December 3, 2025, 4:30 - 6pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "ECS 101 4 2967",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1289945089",
+    "event_id": "1289945089",
+    "description": "Thursday, December 4, 2025, 4 - 4:50pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "CS Women's LAX",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291756622",
+    "event_id": "1291756622",
+    "description": "Monday, December 1, 2025, 6 - 7:30pm Woodruff PE Center Candler Field #3"
+  },
+  {
+    "title": "WBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1313833359",
+    "event_id": "1313833359",
+    "description": "Tuesday, December 2, 2025, 4 - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "Captain's Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1325141320",
+    "event_id": "1325141320",
+    "description": "Wednesday, December 3, 2025, 4:30 - 6pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "DANC 150R 1 2758",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1248425850",
+    "event_id": "1248425850",
+    "description": "Thursday, December 4, 2025, 4 - 5:15pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "WPEC Student Staff Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1309941421",
+    "event_id": "1309941421",
+    "description": "Monday, December 1, 2025, 6 - 7:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "Softball Conditioning Test",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1340210317",
+    "event_id": "1340210317",
+    "description": "Tuesday, December 2, 2025, 4:30 - 6pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "Men's Basketball Film",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342322089",
+    "event_id": "1342322089",
+    "description": "Wednesday, December 3, 2025, 4:30 - 5:30pm Woodruff PE Center small class room"
+  },
+  {
+    "title": "OR Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1306018412",
+    "event_id": "1306018412",
+    "description": "Thursday, December 4, 2025, 4 - 5pm Woodruff PE Center 2nd conference room"
+  },
+  {
+    "title": "CS Water Polo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624139",
+    "event_id": "1291624139",
+    "description": "Monday, December 1, 2025, 6:30 - 8:30pm Woodruff PE Center Pool diving well / deep end"
+  },
+  {
+    "title": "PM Pedal (Kristin)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293150997",
+    "event_id": "1293150997",
+    "description": "Tuesday, December 2, 2025, 4:30 - 5:20pm Woodruff PE Center Cycling Studio"
+  },
+  {
+    "title": "Feel Good Yoga (Martine)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293151783",
+    "event_id": "1293151783",
+    "description": "Wednesday, December 3, 2025, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Align & Flow Yoga (Stacy)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293151786",
+    "event_id": "1293151786",
+    "description": "Thursday, December 4, 2025, 4:30 - 5:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "CS BJJ",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105699",
+    "event_id": "1292105699",
+    "description": "Monday, December 1, 2025, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Men's Tennis Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302257086",
+    "event_id": "1302257086",
+    "description": "Tuesday, December 2, 2025, 4:30 - 6:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
+  },
+  {
+    "title": "CS JUICE",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291756627",
+    "event_id": "1291756627",
+    "description": "Wednesday, December 3, 2025, 5:30 - 7:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
+  },
+  {
+    "title": "PM Pedal (Kristin)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293150999",
+    "event_id": "1293150999",
+    "description": "Thursday, December 4, 2025, 4:30 - 5:20pm Woodruff PE Center Cycling Studio"
+  },
+  {
+    "title": "CS Women's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622131",
+    "event_id": "1291622131",
+    "description": "Monday, December 1, 2025, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "Men's Tennis Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302257340",
+    "event_id": "1302257340",
+    "description": "Tuesday, December 2, 2025, 4:30 - 6:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
+  },
+  {
+    "title": "CS Men's LAX",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291756626",
+    "event_id": "1291756626",
+    "description": "Wednesday, December 3, 2025, 6 - 7:30pm Woodruff PE Center Candler Field #3"
+  },
+  {
+    "title": "Men's Tennis Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302257088",
+    "event_id": "1302257088",
+    "description": "Thursday, December 4, 2025, 4:30 - 6:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
+  },
+  {
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622669",
+    "event_id": "1291622669",
+    "description": "Monday, December 1, 2025, 7 - 8:30pm Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "Men's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424501",
+    "event_id": "1302424501",
+    "description": "Tuesday, December 2, 2025, 5 - 7pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "CS Women's LAX",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291756625",
+    "event_id": "1291756625",
+    "description": "Wednesday, December 3, 2025, 6 - 7:30pm Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "Men's Tennis Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302257342",
+    "event_id": "1302257342",
+    "description": "Thursday, December 4, 2025, 4:30 - 6:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
+  },
+  {
+    "title": "CS Swimming",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624137",
+    "event_id": "1291624137",
+    "description": "Monday, December 1, 2025, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+  },
+  {
+    "title": "Pilates Balance & Flow (Candice)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293151781",
+    "event_id": "1293151781",
+    "description": "Tuesday, December 2, 2025, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Emory Roundnet Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1287444171",
+    "event_id": "1287444171",
+    "description": "Wednesday, December 3, 2025, 6 - 8pm Woodruff PE Center Mcdonough Field"
+  },
+  {
+    "title": "Men's Soccer Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1302424505",
+    "event_id": "1302424505",
+    "description": "Thursday, December 4, 2025, 5 - 7pm Woodruff PE Center Soccer Field"
+  },
+  {
+    "title": "CS Athletic Training Clinic",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1304981266",
+    "event_id": "1304981266",
+    "description": "Monday, December 1, 2025, 7 - 9pm Woodruff PE Center small class room"
+  },
+  {
+    "title": "CS Men's Soccer",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622314",
+    "event_id": "1291622314",
+    "description": "Tuesday, December 2, 2025, 5:30 - 7:15pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "OR Pro Staff Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1305238645",
+    "event_id": "1305238645",
+    "description": "Wednesday, December 3, 2025, 6 - 7pm Woodruff PE Center 2nd conference room"
+  },
+  {
+    "title": "Vinyasa Flow (Maggie)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1293151787",
+    "event_id": "1293151787",
+    "description": "Thursday, December 4, 2025, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "CS Women's Volleyball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290841442",
+    "event_id": "1290841442",
+    "description": "Monday, December 1, 2025, 7 - 9:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "Choreography I",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1308170200",
+    "event_id": "1308170200",
+    "description": "Tuesday, December 2, 2025, 5:30 - 6:30pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS W Volleyball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342011444",
+    "event_id": "1342011444",
+    "description": "Wednesday, December 3, 2025, 7 - 9:30pm Woodruff PE Center Auxillary Court 2"
+  },
+  {
+    "title": "CS Men's Soccer",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622317",
+    "event_id": "1291622317",
+    "description": "Thursday, December 4, 2025, 5:30 - 7:15pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "EDC Rehearsals",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1298682352",
+    "event_id": "1298682352",
+    "description": "Monday, December 1, 2025, 7:30 - 9pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS Men's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1300379305",
+    "event_id": "1300379305",
+    "description": "Tuesday, December 2, 2025, 6 - 8pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "CS Women's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622133",
+    "event_id": "1291622133",
+    "description": "Wednesday, December 3, 2025, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "Adrenaline Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1307395474",
+    "event_id": "1307395474",
+    "description": "Thursday, December 4, 2025, 5:30 - 7pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "Savera Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1307679113",
+    "event_id": "1307679113",
+    "description": "Monday, December 1, 2025, 9 - 10:45pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "MSOC Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342023840",
+    "event_id": "1342023840",
+    "description": "Tuesday, December 2, 2025, 6:30 - 7:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622671",
+    "event_id": "1291622671",
+    "description": "Wednesday, December 3, 2025, 7 - 8:30pm Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "CS Ultimate",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290839323",
+    "event_id": "1290839323",
+    "description": "Thursday, December 4, 2025, 6:30 - 9:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
+  },
+  {
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290869215",
+    "event_id": "1290869215",
+    "description": "Tuesday, December 2, 2025, 6:30 - 9pm Woodruff PE Center Court #3"
+  },
+  {
+    "title": "CS Swimming",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624143",
+    "event_id": "1291624143",
+    "description": "Wednesday, December 3, 2025, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+  },
+  {
+    "title": "CS Men's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1300379306",
+    "event_id": "1300379306",
+    "description": "Thursday, December 4, 2025, 6:30 - 8:30pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
+  },
+  {
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622670",
+    "event_id": "1291622670",
+    "description": "Tuesday, December 2, 2025, 7 - 8:30pm Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "Break Emory Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303568075",
+    "event_id": "1303568075",
+    "description": "Wednesday, December 3, 2025, 8 - 10pm Woodruff PE Center Racquetball court #2"
+  },
+  {
+    "title": "CS Emory Ultimate",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342649988",
+    "event_id": "1342649988",
+    "description": "Thursday, December 4, 2025, 6:30 - 9:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "CS Cycle and Tri",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1318357665",
+    "event_id": "1318357665",
+    "description": "Tuesday, December 2, 2025, 7 - 8pm Woodruff PE Center Pool shallow end"
+  },
+  {
+    "title": "CS Judo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105700",
+    "event_id": "1292105700",
+    "description": "Wednesday, December 3, 2025, 8 - 10pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "CS Water Polo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624146",
+    "event_id": "1291624146",
+    "description": "Thursday, December 4, 2025, 6:30 - 8:30pm Woodruff PE Center Pool diving well / deep end"
+  },
+  {
+    "title": "CS Swimming",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624141",
+    "event_id": "1291624141",
+    "description": "Tuesday, December 2, 2025, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+  },
+  {
+    "title": "CS Baseball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622316",
+    "event_id": "1291622316",
+    "description": "Wednesday, December 3, 2025, 8 - 10pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "CS BJJ",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105701",
+    "event_id": "1292105701",
+    "description": "Thursday, December 4, 2025, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "CS Fencing",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290869216",
+    "event_id": "1290869216",
+    "description": "Tuesday, December 2, 2025, 7 - 9pm Woodruff PE Center Court #4"
+  },
+  {
+    "title": "TNT Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303524658",
+    "event_id": "1303524658",
+    "description": "Wednesday, December 3, 2025, 9 - 10:45pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622672",
+    "event_id": "1291622672",
+    "description": "Thursday, December 4, 2025, 7 - 8:30pm Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "CS Women's Soccer",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622315",
+    "event_id": "1291622315",
+    "description": "Tuesday, December 2, 2025, 7:15 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "CS Swimming",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291624145",
+    "event_id": "1291624145",
+    "description": "Thursday, December 4, 2025, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+  },
+  {
+    "title": "Emotion Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303523313",
+    "event_id": "1303523313",
+    "description": "Tuesday, December 2, 2025, 7:30 - 9:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "CS Women's Soccer",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1291622318",
+    "event_id": "1291622318",
+    "description": "Thursday, December 4, 2025, 7:15 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "CS EGEWU",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1300379714",
+    "event_id": "1300379714",
+    "description": "Tuesday, December 2, 2025, 7:30 - 9:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
+  },
+  {
+    "title": "EDC Rehearsals",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1298682353",
+    "event_id": "1298682353",
+    "description": "Thursday, December 4, 2025, 7:30 - 9pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "Saraas Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303523314",
+    "event_id": "1303523314",
+    "description": "Tuesday, December 2, 2025, 8 - 10pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "EKB Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303424522",
+    "event_id": "1303424522",
+    "description": "Thursday, December 4, 2025, 8 - 10pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "EKB Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303424521",
+    "event_id": "1303424521",
+    "description": "Tuesday, December 2, 2025, 8 - 10pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "Emotion Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1303523316",
+    "event_id": "1303523316",
+    "description": "Thursday, December 4, 2025, 9 - 10pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  }
+]
