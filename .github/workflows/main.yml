@@ -1,48 +1,69 @@
-name: Update Court Availability
+name: Update data and Deploy to GitHub Pages
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # This cron expression runs the workflow every 5 minutes
+    - cron: "*/5 * * * *"
   push:
-    branches:
-      - main
-  workflow_dispatch:  # Enables manual trigger
-  
+    branches: ["main"]
+  workflow_dispatch:
+
 permissions:
-  contents: write  # Ensure the token has write permissions
+  contents: write      # needed to commit changes
+  pages: write         # needed to deploy pages
+  id-token: write      # needed by deploy-pages
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
-    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Fetch data
-      run: |
-        python fetch_data.py
-        python data-processing.py
+      - name: Fetch + process data
+        run: |
+          python fetch_data.py
+          python data-processing.py
 
-    - name: Generate html
-      run: |
-        python court_availability.py
+      - name: Generate HTML
+        run: python court_availability.py
 
-    - name: Push updates to GitHub
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add .
-        git commit -m "Update availability"
-        git push origin main --force
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update availability"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
