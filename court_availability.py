@@ -26,7 +26,7 @@ def generate_html():
         all_date_strs = data["availability"].keys() # this format: 2025-03-22
         today = datetime.now(timezone)
         dates_str = []
-        for i in range(7):
+        for i in range(8):
             date = today + timedelta(days=i)
             date_str = date.strftime("%Y-%m-%d")
             dates_str.append(date_str)
