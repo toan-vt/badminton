@@ -1,11 +1,5 @@
 [
   {
-    "title": "PE 112 1 3063",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337685448",
-    "event_id": "1337685448",
-    "description": "Tuesday, January 20, 2026, 1 - 2:15pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
-  },
-  {
     "title": "PE 189 1 3918",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337683727",
     "event_id": "1337683727",
@@ -868,5 +862,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1321090229",
     "event_id": "1321090229",
     "description": "Monday, January 26, 2026, 11:30am - 12:45pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "PE 192 1 3925",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337685511",
+    "event_id": "1337685511",
+    "description": "Tuesday, January 27, 2026, 10 - 11:15am Woodruff PE Center Arena Court"
   }
 ]

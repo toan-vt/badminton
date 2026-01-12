@@ -1,11 +1,5 @@
 [
   {
-    "title": "PE 192 1 3925",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337685511",
-    "event_id": "1337685511",
-    "description": "Tuesday, January 27, 2026, 10 - 11:15am Woodruff PE Center Arena Court"
-  },
-  {
     "title": "PE 162 1 3903",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684351",
     "event_id": "1337684351",
@@ -868,5 +862,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979788",
     "event_id": "1342979788",
     "description": "Wednesday, January 28, 2026, 8 - 10pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "Vibez Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353244307",
+    "event_id": "1353244307",
+    "description": "Wednesday, January 28, 2026, 8 - 10pm Woodruff PE Center Aerobics Room"
   }
 ]
