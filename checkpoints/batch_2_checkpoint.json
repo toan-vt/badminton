@@ -1,17 +1,5 @@
 [
   {
-    "title": "DANC 123R 1 3037",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1344090362",
-    "event_id": "1344090362",
-    "description": "Tuesday, January 20, 2026, 1 - 2:15pm Woodruff PE Center - Dance Studio"
-  },
-  {
-    "title": "Swim/Dive Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434097",
-    "event_id": "1290434097",
-    "description": "Wednesday, January 21, 2026, 2 - 5:45pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
-  },
-  {
     "title": "Athletics PLG",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1334726514",
     "event_id": "1334726514",
@@ -22,6 +10,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105742",
     "event_id": "1292105742",
     "description": "Friday, January 23, 2026, 5 - 10pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
+  },
+  {
+    "title": "Team Tryouts",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1352958179",
+    "event_id": "1352958179",
+    "description": "Saturday, January 24, 2026, 4 - 6pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "PE 112 1 3063",
@@ -46,6 +40,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979779",
     "event_id": "1342979779",
     "description": "Friday, January 23, 2026, 6 - 8pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "Team Tryouts",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1352962187",
+    "event_id": "1352962187",
+    "description": "Saturday, January 24, 2026, 4 - 6pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "PE 130 1 3889",
@@ -838,5 +838,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351910595",
     "event_id": "1351910595",
     "description": "Saturday, January 31, 2026, 3 - 5:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "MTEN Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342664718",
+    "event_id": "1342664718",
+    "description": "Sunday, January 25, 2026, 1 - 4pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
   }
 ]
