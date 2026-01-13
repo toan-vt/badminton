@@ -1,17 +1,5 @@
 [
   {
-    "title": "CS Cycle & Tri",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345369423",
-    "event_id": "1345369423",
-    "description": "Saturday, January 31, 2026, 3 - 4pm Woodruff PE Center Pool lap lane"
-  },
-  {
-    "title": "EDC Rehearsals",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014091",
-    "event_id": "1353014091",
-    "description": "Sunday, January 25, 2026, 1 - 2:30pm Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "PE 167 3 3912",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684345",
     "event_id": "1337684345",
@@ -40,6 +28,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411690",
     "event_id": "1290411690",
     "description": "Friday, January 30, 2026, 3 - 5:30pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "Break Emory Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353667302",
+    "event_id": "1353667302",
+    "description": "Saturday, January 31, 2026, 5 - 7pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "MTEN Practice",
@@ -330,10 +324,10 @@
     "description": "Friday, January 30, 2026, 6:30 - 8:30pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
-    "title": "CS Judo",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346629980",
-    "event_id": "1346629980",
-    "description": "Sunday, January 25, 2026, 6 - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "title": "Dooley Noted Rehearsal",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353662876",
+    "event_id": "1353662876",
+    "description": "Sunday, January 25, 2026, 5:30 - 7:30pm Woodruff PE Center - Dance Studio"
   },
   {
     "title": "Track Practice",
@@ -364,6 +358,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980040",
     "event_id": "1342980040",
     "description": "Friday, January 30, 2026, 7 - 8:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "CS Judo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346629980",
+    "event_id": "1346629980",
+    "description": "Sunday, January 25, 2026, 6 - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "Swim/Dive Practice",
@@ -892,6 +892,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980036",
     "event_id": "1342980036",
     "description": "Wednesday, January 28, 2026, 7:30 - 10pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "Break Emory Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353667301",
+    "event_id": "1353667301",
+    "description": "Wednesday, January 28, 2026, 8 - 10pm Woodruff PE Center Racquetball court #2"
   },
   {
     "title": "CS Baseball",
