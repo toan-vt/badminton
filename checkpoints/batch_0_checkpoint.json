@@ -762,10 +762,10 @@
     "description": "Thursday, January 15, 2026, 1 - 2:15pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
   },
   {
-    "title": "CS Men's Soccer Tryouts",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351910592",
-    "event_id": "1351910592",
-    "description": "Friday, January 16, 2026, 6 - 7:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980022",
+    "event_id": "1342980022",
+    "description": "Friday, January 16, 2026, 6:30 - 8:30pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "PE 112 1 3063",
@@ -786,10 +786,10 @@
     "description": "Thursday, January 15, 2026, 1 - 2:15pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "CS Badminton",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980022",
-    "event_id": "1342980022",
-    "description": "Friday, January 16, 2026, 6:30 - 8:30pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+    "title": "CS Women's Volleyball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980023",
+    "event_id": "1342980023",
+    "description": "Friday, January 16, 2026, 7 - 8:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "Fitness Team Meeting",
@@ -808,12 +808,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1334726513",
     "event_id": "1334726513",
     "description": "Thursday, January 15, 2026, 2 - 3:30pm Woodruff PE Center small class room"
-  },
-  {
-    "title": "CS Women's Volleyball",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980023",
-    "event_id": "1342980023",
-    "description": "Friday, January 16, 2026, 7 - 8:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "PE 130 1 3889",
@@ -916,5 +910,23 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337687443",
     "event_id": "1337687443",
     "description": "Wednesday, January 14, 2026, 4 - 5:15pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "Align & Flow Yoga (Stacy)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500491",
+    "event_id": "1346500491",
+    "description": "Thursday, January 15, 2026, 4:30 - 5:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "DANC 491R 1 3100",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1321090202",
+    "event_id": "1321090202",
+    "description": "Tuesday, January 13, 2026, 4 - 5:15pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353099975",
+    "event_id": "1353099975",
+    "description": "Wednesday, January 14, 2026, 4 - 5:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
   }
 ]
