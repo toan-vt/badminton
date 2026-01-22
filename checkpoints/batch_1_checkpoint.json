@@ -1,11 +1,5 @@
 [
   {
-    "title": "PM Pedal (Lauren)",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500847",
-    "event_id": "1346500847",
-    "description": "Thursday, January 15, 2026, 5:30 - 6:20pm Woodruff PE Center Cycling Studio"
-  },
-  {
     "title": "WBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353099974",
     "event_id": "1353099974",
@@ -976,5 +970,17 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684336",
     "event_id": "1337684336",
     "description": "Tuesday, January 20, 2026, 1 - 2:15pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "MTEN Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342664715",
+    "event_id": "1342664715",
+    "description": "Wednesday, January 21, 2026, 2:30 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "Track Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353361324",
+    "event_id": "1353361324",
+    "description": "Thursday, January 22, 2026, 3 - 6pm Woodruff PE Center Outdoor track"
   }
 ]
