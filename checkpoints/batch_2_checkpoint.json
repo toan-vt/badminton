@@ -1,5 +1,11 @@
 [
   {
+    "title": "WBB v Case",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1292105742",
+    "event_id": "1292105742",
+    "description": "Friday, January 23, 2026, 5 - 10pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
+  },
+  {
     "title": "PE 194 2 3933",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337683725",
     "event_id": "1337683725",
@@ -235,8 +241,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648086",
-    "event_id": "1355648086",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648089",
+    "event_id": "1355648089",
     "description": "Tuesday, January 20, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -253,8 +259,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648089",
-    "event_id": "1355648089",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648086",
+    "event_id": "1355648086",
     "description": "Tuesday, January 20, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -301,8 +307,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648088",
-    "event_id": "1355648088",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648091",
+    "event_id": "1355648091",
     "description": "Thursday, January 22, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -319,8 +325,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648091",
-    "event_id": "1355648091",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648088",
+    "event_id": "1355648088",
     "description": "Thursday, January 22, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -420,12 +426,6 @@
     "description": "Tuesday, January 20, 2026, 8 - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
-    "title": "Suri Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1347803561",
-    "event_id": "1347803561",
-    "description": "Wednesday, January 21, 2026, 8 - 10pm Woodruff PE Center Aerobics Room"
-  },
-  {
     "title": "CS Tennis",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069996",
     "event_id": "1343069996",
@@ -460,12 +460,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014089",
     "event_id": "1353014089",
     "description": "Thursday, January 22, 2026, 7:30 - 9:30pm Woodruff PE Center - Dance Studio"
-  },
-  {
-    "title": "Suri Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1347803562",
-    "event_id": "1347803562",
-    "description": "Thursday, January 22, 2026, 7:30 - 10pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "ASO Dance Practice",
@@ -958,5 +952,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684352",
     "event_id": "1337684352",
     "description": "Wednesday, January 28, 2026, 11:30am - 12:45pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "DANC 121R 2 3035",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1326405102",
+    "event_id": "1326405102",
+    "description": "Thursday, January 29, 2026, 11:30am - 12:45pm Woodruff PE Center - Dance Studio"
   }
 ]
