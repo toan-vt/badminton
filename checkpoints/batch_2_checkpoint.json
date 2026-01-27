@@ -1,11 +1,5 @@
 [
   {
-    "title": "WBB Pregame Meal",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1336281930",
-    "event_id": "1336281930",
-    "description": "Friday, January 23, 2026, 5 - 6pm Woodruff PE Center Large class room"
-  },
-  {
     "title": "PE 112 1 3063",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337685448",
     "event_id": "1337685448",
@@ -289,8 +283,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648086",
-    "event_id": "1355648086",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648089",
+    "event_id": "1355648089",
     "description": "Tuesday, January 20, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -307,8 +301,8 @@
   },
   {
     "title": "Strength & Conditioning",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648089",
-    "event_id": "1355648089",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355648086",
+    "event_id": "1355648086",
     "description": "Tuesday, January 20, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
@@ -934,5 +928,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500503",
     "event_id": "1346500503",
     "description": "Monday, January 26, 2026, 12 - 12:40pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "RecWell Team Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1352395224",
+    "event_id": "1352395224",
+    "description": "Tuesday, January 27, 2026, 10 - 11am Woodruff PE Center 2nd conference room"
   }
 ]
