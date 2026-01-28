@@ -1,5 +1,11 @@
 [
   {
+    "title": "Vinyasa Flow (Maggie)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500487",
+    "event_id": "1346500487",
+    "description": "Tuesday, January 13, 2026, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
     "title": "Lift & Burn (Morgan)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346501635",
     "event_id": "1346501635",
@@ -192,12 +198,6 @@
     "description": "Thursday, January 15, 2026, 7 - 8:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
   },
   {
-    "title": "Saraas Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1347803558",
-    "event_id": "1347803558",
-    "description": "Tuesday, January 13, 2026, 8 - 10pm Woodruff PE Center Aerobics Room"
-  },
-  {
     "title": "CS Women's Volleyball",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980019",
     "event_id": "1342980019",
@@ -238,12 +238,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979762",
     "event_id": "1342979762",
     "description": "Wednesday, January 14, 2026, 8 - 10pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
-  },
-  {
-    "title": "Saraas Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1347803559",
-    "event_id": "1347803559",
-    "description": "Thursday, January 15, 2026, 9 - 10:45pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "IM Scrimmage",
@@ -546,10 +540,10 @@
     "description": "Saturday, January 24, 2026, 11am - 12:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
   },
   {
-    "title": "Saraas Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1347803560",
-    "event_id": "1347803560",
-    "description": "Sunday, January 18, 2026, 4 - 6pm Woodruff PE Center Aerobics Room"
+    "title": "CS Men's Volleyball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980024",
+    "event_id": "1342980024",
+    "description": "Sunday, January 18, 2026, 4:45 - 7:45pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "MBB Practice",
@@ -588,10 +582,10 @@
     "description": "Saturday, January 24, 2026, 11:30am - 1pm Woodruff PE Center small class room, Woodruff PE Center Large class room"
   },
   {
-    "title": "CS Men's Volleyball",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980024",
-    "event_id": "1342980024",
-    "description": "Sunday, January 18, 2026, 4:45 - 7:45pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+    "title": "CS Judo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346629978",
+    "event_id": "1346629978",
+    "description": "Sunday, January 18, 2026, 6 - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "PE 212 1 3939",
@@ -622,12 +616,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1357156164",
     "event_id": "1357156164",
     "description": "Saturday, January 24, 2026, 11:30am - 1pm Woodruff PE Center small class room, Woodruff PE Center Large class room"
-  },
-  {
-    "title": "CS Judo",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346629978",
-    "event_id": "1346629978",
-    "description": "Sunday, January 18, 2026, 6 - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "Weekly Events Meeting",
@@ -952,5 +940,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684336",
     "event_id": "1337684336",
     "description": "Tuesday, January 20, 2026, 1 - 2:15pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "MTEN Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342664715",
+    "event_id": "1342664715",
+    "description": "Wednesday, January 21, 2026, 2:30 - 4:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
   }
 ]
