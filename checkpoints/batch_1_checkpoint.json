@@ -1,11 +1,5 @@
 [
   {
-    "title": "Saraas Bootcamp",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1356587429",
-    "event_id": "1356587429",
-    "description": "Sunday, February 8, 2026, 8:15am - 1pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
     "title": "Swim/Dive Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411698",
     "event_id": "1290411698",
@@ -414,10 +408,10 @@
     "description": "Friday, February 13, 2026, 2:15 - 4:15pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
   },
   {
-    "title": "CS Cycle & Tri",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345369431",
-    "event_id": "1345369431",
-    "description": "Saturday, February 14, 2026, 3 - 4pm Woodruff PE Center Pool lap lane"
+    "title": "Mulan Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1361445000",
+    "event_id": "1361445000",
+    "description": "Saturday, February 14, 2026, 3 - 5:30pm Woodruff PE Center - Dance Studio"
   },
   {
     "title": "TNT Practice",
@@ -456,10 +450,10 @@
     "description": "Friday, February 13, 2026, 2:15 - 4:15pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
   },
   {
-    "title": "TNT Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353860795",
-    "event_id": "1353860795",
-    "description": "Saturday, February 14, 2026, 3 - 6pm Woodruff PE Center Aerobics Room"
+    "title": "CS Cycle & Tri",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345369431",
+    "event_id": "1345369431",
+    "description": "Saturday, February 14, 2026, 3 - 4pm Woodruff PE Center Pool lap lane"
   },
   {
     "title": "EDC Rehearsals",
@@ -498,10 +492,10 @@
     "description": "Friday, February 13, 2026, 2:30 - 4:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
-    "title": "Break Emory Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353667310",
-    "event_id": "1353667310",
-    "description": "Saturday, February 14, 2026, 5 - 7pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "title": "TNT Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353860795",
+    "event_id": "1353860795",
+    "description": "Saturday, February 14, 2026, 3 - 6pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "MTEN Practice",
@@ -538,6 +532,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353361340",
     "event_id": "1353361340",
     "description": "Friday, February 13, 2026, 3 - 6pm Woodruff PE Center Outdoor track"
+  },
+  {
+    "title": "Break Emory Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353667310",
+    "event_id": "1353667310",
+    "description": "Saturday, February 14, 2026, 5 - 7pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "MTEN Practice",
@@ -1284,10 +1284,10 @@
     "description": "Wednesday, February 11, 2026, 5:30 - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4, Woodruff PE Center Arena Court"
   },
   {
-    "title": "Trip Leader Meeting",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343384190",
-    "event_id": "1343384190",
-    "description": "Thursday, February 12, 2026, 6 - 7:30pm Woodruff PE Center small class room"
+    "title": "Strength & Conditioning",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1361441969",
+    "event_id": "1361441969",
+    "description": "Thursday, February 12, 2026, 6 - 7pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
     "title": "CS Swimming",
@@ -1308,10 +1308,10 @@
     "description": "Wednesday, February 11, 2026, 5:30 - 6:30pm Woodruff PE Center 2nd conference room"
   },
   {
-    "title": "CS Emory Ultimate",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979820",
-    "event_id": "1342979820",
-    "description": "Thursday, February 12, 2026, 6:30 - 9:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
+    "title": "Trip Leader Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343384190",
+    "event_id": "1343384190",
+    "description": "Thursday, February 12, 2026, 6 - 7:30pm Woodruff PE Center small class room"
   },
   {
     "title": "CS Fencing",
@@ -1332,10 +1332,10 @@
     "description": "Wednesday, February 11, 2026, 5:30 - 6:20pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "CS Water Polo",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345369430",
-    "event_id": "1345369430",
-    "description": "Thursday, February 12, 2026, 6:30 - 8:30pm Woodruff PE Center Pool diving well / deep end"
+    "title": "CS Emory Ultimate",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979820",
+    "event_id": "1342979820",
+    "description": "Thursday, February 12, 2026, 6:30 - 9:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
   },
   {
     "title": "CS Women's Volleyball",
@@ -1356,10 +1356,10 @@
     "description": "Wednesday, February 11, 2026, 6 - 8pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
   },
   {
-    "title": "Total Body Burn (Amanda)",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346501667",
-    "event_id": "1346501667",
-    "description": "Thursday, February 12, 2026, 6:30 - 7:20pm Woodruff PE Center Aerobics Room"
+    "title": "CS Water Polo",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345369430",
+    "event_id": "1345369430",
+    "description": "Thursday, February 12, 2026, 6:30 - 8:30pm Woodruff PE Center Pool diving well / deep end"
   },
   {
     "title": "Vibez Dance Practice",
@@ -1380,10 +1380,10 @@
     "description": "Wednesday, February 11, 2026, 6 - 8pm Woodruff PE Center small class room"
   },
   {
-    "title": "CS BJJ",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069325",
-    "event_id": "1343069325",
-    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "title": "Total Body Burn (Amanda)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346501667",
+    "event_id": "1346501667",
+    "description": "Thursday, February 12, 2026, 6:30 - 7:20pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "IM 5v5 Basketball",
@@ -1404,10 +1404,10 @@
     "description": "Wednesday, February 11, 2026, 6:30 - 8:30pm Woodruff PE Center Auxillary Court 2"
   },
   {
-    "title": "CS Women's Soccer",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979821",
-    "event_id": "1342979821",
-    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+    "title": "CS BJJ",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069325",
+    "event_id": "1343069325",
+    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "Muay Thai Practice",
@@ -1428,10 +1428,10 @@
     "description": "Wednesday, February 11, 2026, 6:30 - 7:45pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "IM Supervisor Training",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342937596",
-    "event_id": "1342937596",
-    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center Large class room"
+    "title": "CS Women's Soccer",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979821",
+    "event_id": "1342979821",
+    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
   },
   {
     "title": "Savera Dance Practice",
@@ -1452,10 +1452,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
-    "title": "CS Tennis",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069948",
-    "event_id": "1343069948",
-    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
+    "title": "IM Supervisor Training",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342937596",
+    "event_id": "1342937596",
+    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center Large class room"
   },
   {
     "title": "CS Women's Soccer",
@@ -1470,10 +1470,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 9pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
   },
   {
-    "title": "CS Swimming",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343066443",
-    "event_id": "1343066443",
-    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069948",
+    "event_id": "1343069948",
+    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
   },
   {
     "title": "CS Tennis",
@@ -1488,10 +1488,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
   },
   {
-    "title": "CS Badminton",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980055",
-    "event_id": "1342980055",
-    "description": "Thursday, February 12, 2026, 7 - 9:30pm Woodruff PE Center Court #3"
+    "title": "CS Swimming",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343066443",
+    "event_id": "1343066443",
+    "description": "Thursday, February 12, 2026, 7 - 8:30pm Woodruff PE Center Pool lap lane"
   },
   {
     "title": "CS Swimming",
@@ -1506,10 +1506,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 9pm Woodruff PE Center Large class room"
   },
   {
-    "title": "CS Fencing",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980054",
-    "event_id": "1342980054",
-    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center Court #4"
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980055",
+    "event_id": "1342980055",
+    "description": "Thursday, February 12, 2026, 7 - 9:30pm Woodruff PE Center Court #3"
   },
   {
     "title": "CS Badminton",
@@ -1524,10 +1524,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
   },
   {
-    "title": "EDC Rehearsals",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014101",
-    "event_id": "1353014101",
-    "description": "Thursday, February 12, 2026, 7:30 - 9:30pm Woodruff PE Center - Dance Studio"
+    "title": "CS Fencing",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980054",
+    "event_id": "1342980054",
+    "description": "Thursday, February 12, 2026, 7 - 9pm Woodruff PE Center Court #4"
   },
   {
     "title": "CS Fencing",
@@ -1542,10 +1542,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 8:30pm Woodruff PE Center Pool lap lane"
   },
   {
-    "title": "Agnition Team Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354448987",
-    "event_id": "1354448987",
-    "description": "Thursday, February 12, 2026, 8:30 - 10:45pm Woodruff PE Center Aerobics Room"
+    "title": "EDC Rehearsals",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014101",
+    "event_id": "1353014101",
+    "description": "Thursday, February 12, 2026, 7:30 - 9:30pm Woodruff PE Center - Dance Studio"
   },
   {
     "title": "EKB Dance Practice",
@@ -1560,10 +1560,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 9:30pm Woodruff PE Center Court #3"
   },
   {
-    "title": "Zuri Dance Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355819814",
-    "event_id": "1355819814",
-    "description": "Thursday, February 12, 2026, 9 - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "title": "Agnition Team Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354448987",
+    "event_id": "1354448987",
+    "description": "Thursday, February 12, 2026, 8:30 - 10:45pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "Saraas Practice",
@@ -1578,10 +1578,10 @@
     "description": "Wednesday, February 11, 2026, 7 - 8pm Woodruff PE Center 2nd conference room"
   },
   {
-    "title": "Emotion Dance Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353444644",
-    "event_id": "1353444644",
-    "description": "Thursday, February 12, 2026, 9:30 - 10:45pm Woodruff PE Center - Dance Studio"
+    "title": "Zuri Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1355819814",
+    "event_id": "1355819814",
+    "description": "Thursday, February 12, 2026, 9 - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "Emotion Dance Practice",
@@ -1594,6 +1594,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980053",
     "event_id": "1342980053",
     "description": "Wednesday, February 11, 2026, 7:30 - 10pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "Emotion Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353444644",
+    "event_id": "1353444644",
+    "description": "Thursday, February 12, 2026, 9:30 - 10:45pm Woodruff PE Center - Dance Studio"
   },
   {
     "title": "Break Emory Practice",
