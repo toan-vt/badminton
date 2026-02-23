@@ -1,11 +1,5 @@
 [
   {
-    "title": "Dance Net",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1350990076",
-    "event_id": "1350990076",
-    "description": "Saturday, February 14, 2026, 10am - 3pm Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "WBB Pregame Meal",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1336281933",
     "event_id": "1336281933",
@@ -1702,5 +1696,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500538",
     "event_id": "1346500538",
     "description": "Monday, February 16, 2026, 7:15 - 8:05am Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "M Soccer Spring Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351523650",
+    "event_id": "1351523650",
+    "description": "Tuesday, February 17, 2026, 6 - 8am Woodruff PE Center Outdoor track, Woodruff PE Center Soccer Field"
   }
 ]
