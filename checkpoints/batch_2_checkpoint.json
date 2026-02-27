@@ -1,11 +1,5 @@
 [
   {
-    "title": "M Soccer Spring Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351523652",
-    "event_id": "1351523652",
-    "description": "Thursday, February 19, 2026, 6 - 8am Woodruff PE Center Outdoor track, Woodruff PE Center Soccer Field"
-  },
-  {
     "title": "Track & Field Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345033101",
     "event_id": "1345033101",
@@ -1708,5 +1702,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411709",
     "event_id": "1290411709",
     "description": "Tuesday, February 24, 2026, 6 - 8am Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "Swim/Dive Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411710",
+    "event_id": "1290411710",
+    "description": "Wednesday, February 25, 2026, 6 - 8am Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
   }
 ]
