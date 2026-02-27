@@ -1,11 +1,5 @@
 [
   {
-    "title": "Track & Field Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345033101",
-    "event_id": "1345033101",
-    "description": "Friday, February 20, 2026, 8am - 3pm Woodruff PE Center Mcdonough Field"
-  },
-  {
     "title": "Swim/Dive Last Chance Invite",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434113",
     "event_id": "1290434113",
@@ -1708,5 +1702,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411710",
     "event_id": "1290411710",
     "description": "Wednesday, February 25, 2026, 6 - 8am Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
+  },
+  {
+    "title": "Swim/Dive Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290411711",
+    "event_id": "1290411711",
+    "description": "Thursday, February 26, 2026, 6 - 8am Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
   }
 ]
