@@ -855,31 +855,31 @@
     "title": "Athletics PLG",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1334726520",
     "event_id": "1334726520",
-    "description": "Thursday, March 5, 2026, 2 - 3:30pm Woodruff PE Center small class room"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1334726520 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Zeebah Rehearsal",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354096167",
     "event_id": "1354096167",
-    "description": "Friday, March 6, 2026, 6 - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1354096167 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Men's Volleyball",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980076",
     "event_id": "1342980076",
-    "description": "Sunday, March 1, 2026, 4:45 - 7:45pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1342980076 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Track Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353361351",
     "event_id": "1353361351",
-    "description": "Monday, March 2, 2026, 3 - 6pm Woodruff PE Center Outdoor track"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1353361351 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "PE 167 5 3915",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337684419",
     "event_id": "1337684419",
-    "description": "Tuesday, March 3, 2026, 11:30am - 12:45pm Woodruff PE Center Aerobics Room"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1337684419 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "PE 189 1 3918",
