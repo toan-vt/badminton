@@ -288,12 +288,6 @@
     "description": "Sunday, March 8, 2026, 1 - 2:30pm Woodruff PE Center - Dance Studio"
   },
   {
-    "title": "WERQ",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1373701120",
-    "event_id": "1373701120",
-    "description": "Monday, March 9, 2026, 5:30 - 6:30pm Woodruff PE Center Aerobics Room"
-  },
-  {
     "title": "WTEN Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342408393",
     "event_id": "1342408393",
@@ -1756,5 +1750,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979879",
     "event_id": "1342979879",
     "description": "Thursday, March 19, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "Savera Dance Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354329236",
+    "event_id": "1354329236",
+    "description": "Monday, March 16, 2026, 9 - 10:45pm Woodruff PE Center - Dance Studio"
   }
 ]
