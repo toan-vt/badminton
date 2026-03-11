@@ -1581,55 +1581,55 @@
     "title": "Adrenaline Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353868476",
     "event_id": "1353868476",
-    "description": "Thursday, March 19, 2026, 5:30 - 6:30pm Woodruff PE Center - Dance Studio"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1353868476 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Tennis",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069961",
     "event_id": "1343069961",
-    "description": "Monday, March 16, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1343069961 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "MTEN Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342664762",
     "event_id": "1342664762",
-    "description": "Tuesday, March 17, 2026, 4:30 - 6:30pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1342664762 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Feel Good Yoga (Martine)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346500581",
     "event_id": "1346500581",
-    "description": "Wednesday, March 18, 2026, 5:30 - 6:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1346500581 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Adrenaline Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353860814",
     "event_id": "1353860814",
-    "description": "Thursday, March 19, 2026, 5:30 - 6:30pm Woodruff PE Center - Dance Studio"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1353860814 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Swimming",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343066456",
     "event_id": "1343066456",
-    "description": "Monday, March 16, 2026, 7 - 8:30pm Woodruff PE Center Pool lap lane"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1343066456 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1372631753",
     "event_id": "1372631753",
-    "description": "Tuesday, March 17, 2026, 4:30 - 6:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1372631753 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "EDC Rehearsals",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014116",
     "event_id": "1353014116",
-    "description": "Wednesday, March 18, 2026, 5:30 - 9:15pm Woodruff PE Center - Dance Studio"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1353014116 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "WERQ (Tina)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346501694",
     "event_id": "1346501694",
-    "description": "Thursday, March 19, 2026, 5:30 - 6:20pm Woodruff PE Center Aerobics Room"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1346501694 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Fencing",
