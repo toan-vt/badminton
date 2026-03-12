@@ -1,11 +1,5 @@
 [
   {
-    "title": "Trip Leader Meeting",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343385127",
-    "event_id": "1343385127",
-    "description": "Tuesday, March 17, 2026, 6 - 7:30pm Woodruff PE Center Large class room"
-  },
-  {
     "title": "Tae Kwon Do (John)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346501693",
     "event_id": "1346501693",
@@ -252,10 +246,10 @@
     "description": "Wednesday, March 18, 2026, 9:20 - 10:45pm Woodruff PE Center - Dance Studio"
   },
   {
-    "title": "EID Festival",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290352767",
-    "event_id": "1290352767",
-    "description": "Sunday, March 22, 2026, 8am - 10pm Woodruff PE Center Mcdonough Field, Woodruff PE Center Mcdonough Stage"
+    "title": "CS Fencing Tournament",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351912206",
+    "event_id": "1351912206",
+    "description": "Sunday, March 22, 2026, 8am - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "Sunrise Yoga (Savvy)",
@@ -294,10 +288,10 @@
     "description": "Saturday, March 28, 2026, 7:30am - 11pm Woodruff PE Center Mcdonough Field"
   },
   {
-    "title": "CS Fencing Tournament",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351912206",
-    "event_id": "1351912206",
-    "description": "Sunday, March 22, 2026, 8am - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+    "title": "CS Fencing Tournamet",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351912205",
+    "event_id": "1351912205",
+    "description": "Sunday, March 22, 2026, 8am - 4:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "Rise & Ride (Cecilia)",
@@ -336,10 +330,10 @@
     "description": "Saturday, March 28, 2026, 9:30am - 12:30pm "
   },
   {
-    "title": "CS Fencing Tournamet",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351912205",
-    "event_id": "1351912205",
-    "description": "Sunday, March 22, 2026, 8am - 4:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+    "title": "CS Budget Hearings",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1376839380",
+    "event_id": "1376839380",
+    "description": "Sunday, March 22, 2026, 8:30am - 3pm Woodruff PE Center 2nd conference room"
   },
   {
     "title": "Track & Field Practice",
@@ -1756,5 +1750,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979888",
     "event_id": "1342979888",
     "description": "Tuesday, March 24, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "CS Men's Ultimate",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979890",
+    "event_id": "1342979890",
+    "description": "Wednesday, March 25, 2026, 7 - 9pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
   }
 ]
