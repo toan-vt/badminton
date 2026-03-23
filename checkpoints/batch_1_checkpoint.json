@@ -1,11 +1,5 @@
 [
   {
-    "title": "Track & Field Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345033110",
-    "event_id": "1345033110",
-    "description": "Tuesday, March 10, 2026, 8am - 3pm Woodruff PE Center Mcdonough Field"
-  },
-  {
     "title": "Swim/Dive Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434127",
     "event_id": "1290434127",
@@ -1786,5 +1780,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354095479",
     "event_id": "1354095479",
     "description": "Tuesday, March 17, 2026, 6 - 8pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS Women's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345356744",
+    "event_id": "1345356744",
+    "description": "Wednesday, March 18, 2026, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
   }
 ]
