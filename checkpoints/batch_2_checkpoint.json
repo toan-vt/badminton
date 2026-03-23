@@ -1,11 +1,5 @@
 [
   {
-    "title": "Zeebah Rehearsal",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354095479",
-    "event_id": "1354095479",
-    "description": "Tuesday, March 17, 2026, 6 - 8pm Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "CS Women's Basketball",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345356744",
     "event_id": "1345356744",
@@ -1780,5 +1774,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343385128",
     "event_id": "1343385128",
     "description": "Tuesday, March 24, 2026, 7 - 8pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "CS Women's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345356745",
+    "event_id": "1345356745",
+    "description": "Wednesday, March 25, 2026, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
   }
 ]
