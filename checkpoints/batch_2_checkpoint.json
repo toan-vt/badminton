@@ -1758,12 +1758,6 @@
     "description": "Thursday, March 26, 2026, 7 - 9pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
-    "title": "EKB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1369950297",
-    "event_id": "1369950297",
-    "description": "Monday, March 23, 2026, 9 - 10pm Woodruff PE Center Aerobics Room"
-  },
-  {
     "title": "Pre Trip Meeting OR",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343385128",
     "event_id": "1343385128",
@@ -1786,5 +1780,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069966",
     "event_id": "1343069966",
     "description": "Tuesday, March 24, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
+  },
+  {
+    "title": "CS Women's Basketball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345356745",
+    "event_id": "1345356745",
+    "description": "Wednesday, March 25, 2026, 7 - 8:30pm Woodruff PE Center Auxillary Court 1"
   }
 ]
