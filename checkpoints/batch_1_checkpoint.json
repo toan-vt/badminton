@@ -1,11 +1,5 @@
 [
   {
-    "title": "Track & Field Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1345033110",
-    "event_id": "1345033110",
-    "description": "Tuesday, March 10, 2026, 8am - 3pm Woodruff PE Center Mcdonough Field"
-  },
-  {
     "title": "Swim/Dive Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434127",
     "event_id": "1290434127",
@@ -1786,5 +1780,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1361100292",
     "event_id": "1361100292",
     "description": "Monday, March 16, 2026, 9 - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Fitness Attendant Staff Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1367131666",
+    "event_id": "1367131666",
+    "description": "Tuesday, March 17, 2026, 6 - 7pm Woodruff PE Center 2nd conference room"
   }
 ]
