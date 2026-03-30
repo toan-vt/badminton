@@ -1,11 +1,5 @@
 [
   {
-    "title": "CS Tennis",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069964",
-    "event_id": "1343069964",
-    "description": "Thursday, March 19, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
-  },
-  {
     "title": "Savera Dance Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354329236",
     "event_id": "1354329236",
@@ -1792,5 +1786,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979894",
     "event_id": "1342979894",
     "description": "Thursday, March 26, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
+    "title": "CS Fencing",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342980098",
+    "event_id": "1342980098",
+    "description": "Tuesday, March 24, 2026, 7 - 9pm Woodruff PE Center Court #4"
   }
 ]

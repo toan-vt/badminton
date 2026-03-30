@@ -1,12 +1,6 @@
 [
   {
     "title": "Swim/Dive Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434127",
-    "event_id": "1290434127",
-    "description": "Wednesday, March 11, 2026, 10am - 12pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
-  },
-  {
-    "title": "Swim/Dive Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1290434129",
     "event_id": "1290434129",
     "description": "Thursday, March 12, 2026, 10am - 12pm Woodruff PE Center Pool shallow end, Woodruff PE Center Pool lap lane, Woodruff PE Center Pool diving well / deep end, Woodruff PE Center Pool"
@@ -1792,5 +1786,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342937597",
     "event_id": "1342937597",
     "description": "Wednesday, March 18, 2026, 7 - 8pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "CS Tennis",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1343069964",
+    "event_id": "1343069964",
+    "description": "Thursday, March 19, 2026, 7 - 8:30pm Woodruff PE Center All Outdoor Tennis courts"
   }
 ]
