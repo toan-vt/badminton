@@ -1,11 +1,5 @@
 [
   {
-    "title": "Metro Cup @ Emory",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351537845",
-    "event_id": "1351537845",
-    "description": "Saturday, April 11, 2026, 8am - 4pm Woodruff PE Center Outdoor track, Woodruff PE Center Soccer Field"
-  },
-  {
     "title": "WTEN Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342408414",
     "event_id": "1342408414",
@@ -1750,5 +1744,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1275958175",
     "event_id": "1275958175",
     "description": "Saturday, April 18, 2026, 10am - 5pm Woodruff PE Center Mcdonough Field, Woodruff PE Center Mcdonough Stage"
+  },
+  {
+    "title": "Adrenaline Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353860831",
+    "event_id": "1353860831",
+    "description": "Sunday, April 12, 2026, 11am - 12:30pm Woodruff PE Center Aerobics Room"
   }
 ]
