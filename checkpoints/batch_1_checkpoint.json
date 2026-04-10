@@ -1,17 +1,5 @@
 [
   {
-    "title": "Swim Jr Day - Fontana",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1385040154",
-    "event_id": "1385040154",
-    "description": "Friday, April 10, 2026, 10 - 11:30am Woodruff PE Center Large class room"
-  },
-  {
-    "title": "Metro Cup @ Emory",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1351567326",
-    "event_id": "1351567326",
-    "description": "Saturday, April 11, 2026, 8am - 4pm Woodruff PE Center Outdoor track, Woodruff PE Center Soccer Field"
-  },
-  {
     "title": "CS Men's Basketball Tournament",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1372621033",
     "event_id": "1372621033",
@@ -1146,10 +1134,10 @@
     "description": "Thursday, April 9, 2026, 5:30 - 6:20pm Woodruff PE Center Cycling Studio"
   },
   {
-    "title": "EKB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1385034638",
-    "event_id": "1385034638",
-    "description": "Friday, April 10, 2026, 8 - 8:45pm Woodruff PE Center Aerobics Room"
+    "title": "W.A.V.E. Dine and Dive",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1388945927",
+    "event_id": "1388945927",
+    "description": "Friday, April 10, 2026, 7 - 8pm Woodruff PE Center Pool lap lane"
   },
   {
     "title": "CS Women's LAX",
@@ -1174,6 +1162,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353868488",
     "event_id": "1353868488",
     "description": "Thursday, April 9, 2026, 5:30 - 6:30pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "EKB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1385034638",
+    "event_id": "1385034638",
+    "description": "Friday, April 10, 2026, 8 - 8:45pm Woodruff PE Center Aerobics Room"
   },
   {
     "title": "CS Women's Basketball",
@@ -1786,5 +1780,17 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337683841",
     "event_id": "1337683841",
     "description": "Monday, April 13, 2026, 10 - 11:15am Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Tennis Individual Practices",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1358820605",
+    "event_id": "1358820605",
+    "description": "Tuesday, April 14, 2026, 9am - 12pm Woodruff PE Center All Outdoor Tennis courts, Woodruff PE Center All Indoor Tennis courts"
+  },
+  {
+    "title": "PE 194 1 3927",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337683847",
+    "event_id": "1337683847",
+    "description": "Wednesday, April 15, 2026, 10 - 11:15am Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   }
 ]
