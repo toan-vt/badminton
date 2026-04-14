@@ -1,5 +1,11 @@
 [
   {
+    "title": "CS Men's Basketball Tournament",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1372621033",
+    "event_id": "1372621033",
+    "description": "Sunday, April 5, 2026, 10am - 6pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
     "title": "PE Tennis",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346728143",
     "event_id": "1346728143",
@@ -1792,11 +1798,5 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1337685532",
     "event_id": "1337685532",
     "description": "Thursday, April 16, 2026, 10 - 11:15am Woodruff PE Center Arena Court"
-  },
-  {
-    "title": "Club Sport Officer Training",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1387149289",
-    "event_id": "1387149289",
-    "description": "Friday, April 17, 2026, 11:45am - 1:15pm Woodruff PE Center Large class room"
   }
 ]
