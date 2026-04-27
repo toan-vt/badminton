@@ -1,11 +1,5 @@
 [
   {
-    "title": "DANC 223R 1 3076",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1321090427",
-    "event_id": "1321090427",
-    "description": "Wednesday, April 15, 2026, 10 - 11:15am Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "DANC 121R 2 3035",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1326405142",
     "event_id": "1326405142",
@@ -745,9 +739,9 @@
   },
   {
     "title": "WTEN Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1392888447",
-    "event_id": "1392888447",
-    "description": "Wednesday, April 15, 2026, 4:30 - 6:30pm Woodruff PE Center All Indoor Tennis courts"
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342408421",
+    "event_id": "1342408421",
+    "description": "Wednesday, April 15, 2026, 4:30 - 6:30pm Woodruff PE Center All Outdoor Tennis courts"
   },
   {
     "title": "CS Emory Ultimate",
@@ -775,9 +769,9 @@
   },
   {
     "title": "WTEN Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342408421",
-    "event_id": "1342408421",
-    "description": "Wednesday, April 15, 2026, 4:30 - 6:30pm Woodruff PE Center All Outdoor Tennis courts"
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1392888447",
+    "event_id": "1392888447",
+    "description": "Wednesday, April 15, 2026, 4:30 - 6:30pm Woodruff PE Center All Indoor Tennis courts"
   },
   {
     "title": "CS Water Polo",
@@ -1642,5 +1636,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1361100303",
     "event_id": "1361100303",
     "description": "Friday, April 24, 2026, 2:30 - 4:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Break Emory Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353667346",
+    "event_id": "1353667346",
+    "description": "Saturday, April 25, 2026, 5 - 7pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   }
 ]
