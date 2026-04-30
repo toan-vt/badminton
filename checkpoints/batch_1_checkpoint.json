@@ -903,19 +903,19 @@
     "title": "WTEN Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342408609",
     "event_id": "1342408609",
-    "description": "Wednesday, April 8, 2026, 4:30 - 6:30pm Woodruff PE Center All Indoor Tennis courts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1342408609 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Pop-Up Classes",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1346749482",
     "event_id": "1346749482",
-    "description": "Thursday, April 9, 2026, 5:30 - 6:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1346749482 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Zeebah Rehearsal",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1354095486",
     "event_id": "1354095486",
-    "description": "Friday, April 10, 2026, 6 - 8pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1354095486 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "Ballroom Dance Lesson",

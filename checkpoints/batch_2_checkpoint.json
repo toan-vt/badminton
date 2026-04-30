@@ -951,19 +951,19 @@
     "title": "CS Men's LAX",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979931",
     "event_id": "1342979931",
-    "description": "Wednesday, April 15, 2026, 6 - 8pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1342979931 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "EDC Rehearsals",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1353014133",
     "event_id": "1353014133",
-    "description": "Thursday, April 16, 2026, 7:30 - 9:30pm Woodruff PE Center - Dance Studio"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1353014133 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Women's Soccer",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?eventid=1342979930",
     "event_id": "1342979930",
-    "description": "Tuesday, April 14, 2026, 7 - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+    "description": "Error occurred: HTTPSConnectionPool(host='25livepub.collegenet.com', port=443): Max retries exceeded with url: /calendars/25live-woodpec-cal?eventid=1342979930 (Caused by ResponseError('too many 502 error responses'))"
   },
   {
     "title": "CS Men's Basketball",
