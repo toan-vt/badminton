@@ -1,3 +1,4 @@
+from datetime import date
 from pathlib import Path
 
 import pytz
@@ -25,3 +26,21 @@ OPERATING_HOURS = {
     "Saturday": ("8am", "8pm"),
     "Sunday": ("8am", "8pm"),
 }
+
+SUMMER_HOURS_START = date(2026, 5, 12)
+SUMMER_HOURS_END = date(2026, 8, 23)
+SUMMER_OPERATING_HOURS = {
+    "Monday": ("7am", "8pm"),
+    "Tuesday": ("7am", "8pm"),
+    "Wednesday": ("7am", "8pm"),
+    "Thursday": ("7am", "8pm"),
+    "Friday": ("7am", "8pm"),
+    "Saturday": ("10am", "6pm"),
+    "Sunday": ("10am", "6pm"),
+}
+
+
+def get_operating_hours(current_date):
+    if SUMMER_HOURS_START <= current_date <= SUMMER_HOURS_END:
+        return SUMMER_OPERATING_HOURS
+    return OPERATING_HOURS
