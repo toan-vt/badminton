@@ -8,8 +8,8 @@ from badminton_availability.config import (
     AVAILABILITY_FILE,
     CHECKPOINT_DIR,
     COURT_NUMBER,
-    OPERATING_HOURS,
     TIMEZONE,
+    get_operating_hours,
 )
 
 
@@ -147,7 +147,8 @@ def get_available_times(date, events_data, court_number=COURT_NUMBER):
         event["date"] = normalize_date_format(event["date"])
 
     day_name = date.strftime("%A")
-    open_time_str, close_time_str = OPERATING_HOURS[day_name]
+    operating_hours = get_operating_hours(date)
+    open_time_str, close_time_str = operating_hours[day_name]
     open_time = datetime.combine(date, parse_time(open_time_str).time())
     close_time = datetime.combine(date, parse_time(close_time_str).time())
 

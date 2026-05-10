@@ -135,6 +135,22 @@ class AvailabilityTests(unittest.TestCase):
             [("07:00", "23:00")],
         )
 
+    def test_get_available_times_uses_summer_hours_weekday(self):
+        available = call_silently(get_available_times, date(2026, 5, 12), [], court_number=3)
+
+        self.assertEqual(
+            [(start.strftime("%H:%M"), end.strftime("%H:%M")) for start, end in available],
+            [("07:00", "20:00")],
+        )
+
+    def test_get_available_times_uses_summer_hours_weekend(self):
+        available = call_silently(get_available_times, date(2026, 7, 18), [], court_number=3)
+
+        self.assertEqual(
+            [(start.strftime("%H:%M"), end.strftime("%H:%M")) for start, end in available],
+            [("10:00", "18:00")],
+        )
+
     def test_get_available_times_excludes_overlapping_events(self):
         events = [
             {
