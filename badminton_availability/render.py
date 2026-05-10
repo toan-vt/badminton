@@ -1,59 +1,12 @@
-import os
 import json
-import time
 from datetime import datetime, timedelta
-import requests
-from flask import Flask, render_template_string
-# from fetch_data import save_availability_to_file
-import subprocess
-import pytz
 
-# Configuration
-REPO_NAME = "court-availability"
-DATA_FILE = "data/availability.json"
-HTML_FILE = "index.html"
-timezone = pytz.timezone('US/Eastern')
+from jinja2 import Template
 
-def generate_html():
-    """Generate the HTML page using the saved data."""
-    try:
-        with open(DATA_FILE, 'r') as f:
-            data = json.load(f)
-        
-        availability = data["availability"]
-        last_updated = data["last_updated"]
-        
-        all_date_strs = data["availability"].keys() # this format: 2025-03-22
-        today = datetime.now(timezone)
-        dates_str = []
-        for i in range(8):
-            date = today + timedelta(days=i)
-            date_str = date.strftime("%Y-%m-%d")
-            dates_str.append(date_str)
+from badminton_availability.config import AVAILABILITY_FILE, HTML_FILE, TIMEZONE
 
-        dates = []
-        for date_str in dates_str:
-            date = datetime.strptime(date_str, "%Y-%m-%d")
-            date_display = date.strftime("%A %m-%d-%Y")
-            
-            if date_str not in all_date_strs:
-                # Add the date with a special flag indicating no data available
-                dates.append({
-                    "date_str": date_str,
-                    "display": date_display,
-                    "slots": [],
-                    "no_data": True
-                })
-            else:
-                dates.append({
-                    "date_str": date_str,
-                    "display": date_display,
-                    "slots": availability.get(date_str, []),
-                    "no_data": False
-                })
-        
-        # HTML template
-        html_template = """
+
+HTML_TEMPLATE = """
         <!DOCTYPE html>
         <html lang="en">
         <head>
@@ -150,7 +103,7 @@ def generate_html():
                 Hours may be inaccurate during holidays/breaks. Please check the <a href="https://recwell.emory.edu/about/hrs.html" target="_blank">official website</a> for latest announcements.
             </div>
             <p class="updated">Last updated: {{ last_updated }}</p>
-            
+
             {% for day in dates %}
             <div class="day-container">
                 <h2>{{ day.display }}</h2>
@@ -171,33 +124,50 @@ def generate_html():
         </body>
         </html>
         """
-        
-        # Render the template with the data
-        from jinja2 import Template
-        template = Template(html_template)
-        rendered_html = template.render(dates=dates, last_updated=last_updated)
-        
-        # Write the HTML to file
-        with open(HTML_FILE, 'w') as f:
+
+
+def build_dates(availability):
+    today = datetime.now(TIMEZONE)
+    dates = []
+
+    for i in range(8):
+        date = today + timedelta(days=i)
+        date_str = date.strftime("%Y-%m-%d")
+        date_display = datetime.strptime(date_str, "%Y-%m-%d").strftime("%A %m-%d-%Y")
+
+        dates.append(
+            {
+                "date_str": date_str,
+                "display": date_display,
+                "slots": availability.get(date_str, []),
+                "no_data": date_str not in availability,
+            }
+        )
+
+    return dates
+
+
+def generate_html(data_file=AVAILABILITY_FILE, html_file=HTML_FILE):
+    """Generate the HTML page using saved availability data."""
+    try:
+        with open(data_file, encoding="utf-8") as f:
+            data = json.load(f)
+
+        availability = data["availability"]
+        last_updated = data["last_updated"]
+        rendered_html = Template(HTML_TEMPLATE).render(
+            dates=build_dates(availability),
+            last_updated=last_updated,
+        )
+
+        with open(html_file, "w", encoding="utf-8") as f:
             f.write(rendered_html)
-            
-        print(f"HTML generated at {datetime.now(timezone).strftime('%Y-%m-%d %H:%M:%S')}")
-        
+
+        print(f"HTML generated at {datetime.now(TIMEZONE).strftime('%Y-%m-%d %H:%M:%S')}")
     except Exception as e:
         print(f"Error generating HTML: {e}")
 
-def update_data():
-    """Fetch new data and update the website."""
-    # save_availability_to_file()
+
+def main():
     generate_html()
-    commit_and_push_changes()
 
-def commit_and_push_changes():
-    """Commit and push changes to GitHub."""
-    subprocess.run(["git", "add", HTML_FILE, DATA_FILE])
-    subprocess.run(["git", "commit", "-m", f"Update court availability {datetime.now(timezone).strftime('%Y-%m-%d %H:%M:%S')}"])
-    subprocess.run(["git", "push", "origin", "main"])
-
-if __name__ == "__main__":
-    # Initial data fetch and page generation
-    update_data()
