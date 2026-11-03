@@ -120,7 +120,7 @@ HTML_TEMPLATE = """
                 </div>
             </div>
             {% endfor %}
-            <footer class="byline">Coded by Claude 3.7 & GPT4, prompted & put them together by <a href="https://toan-vt.github.io" target="_blank">Toan Tran</a> | Data source: <a href="https://25livepub.collegenet.com/calendars/25live-woodpec-cal" target="_blank">WPEC Calendar</a> | I am not responsible for any errors in court availability information :) | Created in a random boring evening :) on March 3, 2025 </footer>
+            <footer class="byline">Coded by Claude 3.7, GPT4 & Claude Code, prompted & put them together by <a href="https://toan-vt.github.io" target="_blank">Toan Tran</a> | Data source: <a href="https://25livepub.collegenet.com/calendars/25live-woodpec-cal" target="_blank">WPEC Calendar</a> | I am not responsible for any errors in court availability information :) | Created in a random boring evening :) on March 3, 2025 </footer>
         </body>
         </html>
         """
