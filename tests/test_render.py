@@ -3,8 +3,10 @@ import json
 import tempfile
 import unittest
 from contextlib import redirect_stdout
+from datetime import datetime
 from pathlib import Path
 
+from badminton_availability.config import TIMEZONE
 from badminton_availability.render import generate_html
 
 
@@ -13,12 +15,13 @@ class RenderTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmpdir:
             tmpdir = Path(tmpdir)
             data_file = tmpdir / "availability.json"
+            today = datetime.now(TIMEZONE).strftime("%Y-%m-%d")
             html_file = tmpdir / "index.html"
             data_file.write_text(
                 json.dumps(
                     {
                         "availability": {
-                            "2026-05-11": ["7am - 8am"],
+                            today: ["7am - 8am"],
                         },
                         "last_updated": "2026-05-10 12:00:00",
                     }

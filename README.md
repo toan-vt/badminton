@@ -9,7 +9,7 @@ The project fetches calendar events, extracts event descriptions, converts Court
 ```text
 badminton_availability/
   config.py      Shared paths, constants, timezone, court number, source URL
-  fetch.py       Selenium and requests-based event fetching
+  fetch.py       Event fetching from the 25Live JSON feed
   process.py     Event parsing and availability calculation
   render.py      Static HTML generation
 
@@ -81,7 +81,9 @@ Fetch fresh live data:
 .venv/bin/python scripts/fetch_data.py
 ```
 
-The fetch step requires Chrome/WebDriver support through Selenium and network access to the 25Live calendar.
+The fetch step only needs network access. It reads the calendar's public JSON feed
+(`https://25livepub.collegenet.com/calendars/25live-woodpec-cal.json`), paging with
+`startdate=YYYYMMDD&events=1000` until `DAYS_AHEAD` days are covered.
 
 ## Data Source
 

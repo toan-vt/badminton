@@ -4,5 +4,3 @@ jinja2
 schedule
 beautifulsoup4
 pytz
-selenium
-tqdm

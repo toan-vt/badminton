@@ -16,6 +16,9 @@ COURT_NUMBER = 3
 NUM_WORKERS = 4
 TIMEZONE = pytz.timezone("US/Eastern")
 SOURCE_URL = "https://25livepub.collegenet.com/calendars/25live-woodpec-cal"
+FEED_URL = f"{SOURCE_URL}.json"
+FEED_PAGE_SIZE = 1000  # max events the feed returns per request
+DAYS_AHEAD = 42
 
 OPERATING_HOURS = {
     "Monday": ("7am", "11pm"),
