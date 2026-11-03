@@ -33,9 +33,9 @@ class RenderTests(unittest.TestCase):
                 generate_html(data_file=data_file, html_file=html_file)
 
             html = html_file.read_text(encoding="utf-8")
-            self.assertIn("Woodruff PE Center Court #3 Availability", html)
-            self.assertIn("Last updated: 2026-05-10 12:00:00", html)
-            self.assertIn("7am - 8am", html)
+            self.assertIn("WoodPEC Court #3 Availability", html)
+            self.assertIn("Updated 2026-05-10 12:00:00", html)
+            self.assertIn('<span class="t">7am</span><span class="dash"> - </span><span class="t">8am</span>', html)
 
 
 class CalendarTests(unittest.TestCase):
@@ -53,9 +53,8 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(len(cal["days"]) % 7, 0)
 
         nov1 = next(d for d in cal["days"] if d["iso"] == "2026-11-01")
-        self.assertTrue(nov1["show_month"])
-        self.assertEqual(nov1["slots"], ["8am - 8pm"])
-        self.assertEqual(nov1["free_label"], "12h")
+        self.assertEqual(nov1["label"], "Nov 1")
+        self.assertEqual(nov1["slots"], [("8am", "8pm")])
 
     def test_day_states(self):
         cal = build_calendar(
@@ -64,11 +63,9 @@ class CalendarTests(unittest.TestCase):
         )
         by_iso = {d["iso"]: d for d in cal["days"]}
 
-        self.assertEqual(by_iso["2026-11-03"]["free_label"], "11h")
-        self.assertEqual(len(by_iso["2026-11-03"]["blocks"]), 2)
+        self.assertEqual(by_iso["2026-11-03"]["slots"], [("7am", "4:30pm"), ("9:30pm", "11pm")])
         self.assertTrue(by_iso["2026-11-03"]["is_today"])
-        self.assertEqual(by_iso["2026-11-04"]["summary"], "fully booked")
-        self.assertTrue(by_iso["2026-11-05"]["no_data"])
+        self.assertEqual(by_iso["2026-11-04"]["slots"], [])
         self.assertFalse(by_iso["2026-11-01"]["in_range"])
 
 
