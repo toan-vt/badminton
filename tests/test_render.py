@@ -41,7 +41,7 @@ class RenderTests(unittest.TestCase):
 class CalendarTests(unittest.TestCase):
     def test_two_weeks_cross_month_boundary(self):
         # Saturday, October 31, 2026
-        cal = build_calendar({"2026-11-01": ["8am - 8pm"]}, today=date(2026, 10, 31))
+        cal = build_calendar({"2026-11-01": ["8am - 8pm"]}, today=date(2026, 10, 31), days_shown=14)
         active = [d["iso"] for d in cal["days"] if d["in_range"]]
 
         self.assertEqual(len(active), 14)
@@ -67,6 +67,13 @@ class CalendarTests(unittest.TestCase):
         self.assertTrue(by_iso["2026-11-03"]["is_today"])
         self.assertEqual(by_iso["2026-11-04"]["slots"], [])
         self.assertFalse(by_iso["2026-11-01"]["in_range"])
+
+    def test_default_shows_four_weeks(self):
+        cal = build_calendar({}, today=date(2026, 11, 3))
+        active = [d["iso"] for d in cal["days"] if d["in_range"]]
+        self.assertEqual(len(active), 28)
+        self.assertEqual(active[-1], "2026-11-30")
+        self.assertEqual(cal["weeks_shown"], 4)
 
 
 if __name__ == "__main__":

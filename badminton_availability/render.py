@@ -93,7 +93,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <body>
 <div class="wrap">
   <h1>WoodPEC Court #3 Availability</h1>
-  <p class="subtitle">Open badminton times, next 2 weeks &middot; Updated {{ last_updated }}</p>
+  <p class="subtitle">Open badminton times, next {{ weeks_shown }} weeks &middot; Updated {{ last_updated }}</p>
 
   <div class="calendar">
     {% for name in weekday_names %}<div class="dow">{{ name }}</div>{% endfor %}
@@ -150,7 +150,7 @@ def build_calendar(availability, today=None, days_shown=DAYS_SHOWN):
         )
         current += timedelta(days=1)
 
-    return {"days": days, "weekday_names": WEEKDAY_NAMES}
+    return {"days": days, "weekday_names": WEEKDAY_NAMES, "weeks_shown": days_shown // 7}
 
 
 def generate_html(data_file=AVAILABILITY_FILE, html_file=HTML_FILE, today=None):

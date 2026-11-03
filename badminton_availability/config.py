@@ -18,7 +18,7 @@ TIMEZONE = pytz.timezone("US/Eastern")
 SOURCE_URL = "https://25livepub.collegenet.com/calendars/25live-woodpec-cal"
 FEED_URL = f"{SOURCE_URL}.json"
 FEED_PAGE_SIZE = 1000  # max events the feed returns per request
-DAYS_SHOWN = 14  # days displayed on the site, starting today
+DAYS_SHOWN = 28  # days displayed on the site, starting today
 # How far ahead to fetch. Always from today forward (not tied to the calendar's
 # month view), and never less than DAYS_SHOWN so month boundaries are covered.
 DAYS_AHEAD = max(42, DAYS_SHOWN)
