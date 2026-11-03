@@ -3,7 +3,7 @@ import unittest
 from contextlib import redirect_stdout
 from datetime import date
 
-from badminton_availability.fetch import build_description, fetch_raw_events, to_event_record
+from badminton_availability.fetch import build_description, fetch_event_records, fetch_raw_events, to_event_record
 from badminton_availability.process import parse_schedule_data
 
 
@@ -113,6 +113,19 @@ class FetchRawEventsTests(unittest.TestCase):
             events = fetch_raw_events(date(2026, 11, 3), date(2026, 11, 10), session=session, page_size=2)
         self.assertEqual([e["eventID"] for e in events], [1, 2, 3])
         self.assertEqual(session.calls, ["20261103", "20261105"])
+
+    def test_fetch_window_crosses_month_boundary(self):
+        pages = {
+            "20261031": [
+                feed_event(1, "2026-10-31T08:00:00", "2026-10-31T09:00:00"),
+                feed_event(2, "2026-11-01T08:00:00", "2026-11-01T09:00:00"),
+                feed_event(3, "2026-11-13T19:00:00", "2026-11-13T21:00:00"),
+            ],
+        }
+        session = FakeSession(pages)
+        with redirect_stdout(io.StringIO()):
+            records = fetch_event_records(start_date=date(2026, 10, 31), days_ahead=14, session=session)
+        self.assertEqual([r["event_id"] for r in records], ["1", "2", "3"])
 
 
 if __name__ == "__main__":

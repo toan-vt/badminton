@@ -8,6 +8,7 @@ from badminton_availability.config import (
     AVAILABILITY_FILE,
     CHECKPOINT_DIR,
     COURT_NUMBER,
+    DAYS_SHOWN,
     TIMEZONE,
     get_operating_hours,
 )
@@ -265,7 +266,10 @@ def main():
     descs = [d["description"] for d in data]
     parsed_events = parse_schedule_data(descs)
     parsed_dates = [datetime.strptime(event["date"], "%A, %B %d, %Y") for event in parsed_events]
-    unique_dates = sorted(set(parsed_dates))
+    # Always cover every displayed day; a day with no Court #3 events is open all day.
+    today = datetime.combine(datetime.now(TIMEZONE).date(), datetime.min.time())
+    shown_dates = [today + timedelta(days=i) for i in range(DAYS_SHOWN)]
+    unique_dates = sorted(set(parsed_dates) | set(shown_dates))
     print(f"Unique dates: {unique_dates}")
 
     parsed_events = normalize_event_times(parsed_events)
