@@ -132,12 +132,6 @@
     "description": "Thursday, November 5, 2026, 4:15pm - 6:15pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
-    "title": "Align & Flow Yoga (Stacy)",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421118685",
-    "event_id": "1421118685",
-    "description": "Thursday, November 5, 2026, 4:30pm - 5:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
     "title": "IM 7v7 Flag Football",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417740489",
     "event_id": "1417740489",
@@ -342,6 +336,12 @@
     "description": "Friday, November 6, 2026, 12pm - 3pm Woodruff PE Center Aerobics Room"
   },
   {
+    "title": "MBB Film",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1466821992",
+    "event_id": "1466821992",
+    "description": "Friday, November 6, 2026, 1:20pm - 2:30pm Woodruff PE Center Large class room"
+  },
+  {
     "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440751727",
     "event_id": "1440751727",
@@ -352,6 +352,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426614258",
     "event_id": "1426614258",
     "description": "Friday, November 6, 2026, 2pm - 4pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "OR Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1467008822",
+    "event_id": "1467008822",
+    "description": "Friday, November 6, 2026, 2pm - 3pm Woodruff PE Center 2nd conference room"
   },
   {
     "title": "MSOC Practice",
@@ -490,12 +496,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426630600",
     "event_id": "1426630600",
     "description": "Saturday, November 7, 2026, 9:30am - 11:20am Woodruff PE Center Aerobics Room"
-  },
-  {
-    "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440751728",
-    "event_id": "1440751728",
-    "description": "Saturday, November 7, 2026, 10am - 12pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
     "title": "Swim & Dive",
@@ -660,18 +660,6 @@
     "description": "Sunday, November 8, 2026, 11:30am - 12:20pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440751730",
-    "event_id": "1440751730",
-    "description": "Sunday, November 8, 2026, 12pm - 2pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
-  },
-  {
-    "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754417",
-    "event_id": "1440754417",
-    "description": "Sunday, November 8, 2026, 12pm - 2pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
-  },
-  {
     "title": "WBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1436554978",
     "event_id": "1436554978",
@@ -700,12 +688,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1430077251",
     "event_id": "1430077251",
     "description": "Sunday, November 8, 2026, 1pm - 4pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
-    "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440751731",
-    "event_id": "1440751731",
-    "description": "Sunday, November 8, 2026, 2pm - 4pm Woodruff PE Center Court #2, Woodruff PE Center Court #1, Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "MBB Practice",
@@ -1576,5 +1558,17 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426630602",
     "event_id": "1426630602",
     "description": "Wednesday, November 11, 2026, 7:30pm - 10:30pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "Emory Suri Rehearsals",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427268143",
+    "event_id": "1427268143",
+    "description": "Wednesday, November 11, 2026, 7:30pm - 10:30pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "CS Baseball",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417740505",
+    "event_id": "1417740505",
+    "description": "Wednesday, November 11, 2026, 8pm - 10pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
   }
 ]
