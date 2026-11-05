@@ -1,11 +1,5 @@
 [
   {
-    "title": "WSOC Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1423737844",
-    "event_id": "1423737844",
-    "description": "Wednesday, November 18, 2026, 5pm - 7pm Woodruff PE Center Outdoor track, Woodruff PE Center Soccer Field"
-  },
-  {
     "title": "Feel Good Yoga (Martine)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421118714",
     "event_id": "1421118714",
@@ -406,6 +400,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1398305782",
     "event_id": "1398305782",
     "description": "Friday, November 20, 2026, 7:30am - 3pm Woodruff PE Center Mcdonough Field"
+  },
+  {
+    "title": "JCC Volleyball Tournament",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1466073520",
+    "event_id": "1466073520",
+    "description": "Friday, November 20, 2026, 10am - 1pm Woodruff PE Center Auxillary Court, Woodruff PE Center Auxillary Court 2, Woodruff PE Center Auxillary Court 1"
   },
   {
     "title": "EDC",
@@ -1501,15 +1501,15 @@
   },
   {
     "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
-    "event_id": "1440754426",
-    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
-  },
-  {
-    "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
     "event_id": "1440754425",
     "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
+    "event_id": "1440754426",
+    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "KettleBell Strength Lab (Noni)",

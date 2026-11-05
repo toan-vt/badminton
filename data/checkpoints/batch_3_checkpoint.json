@@ -1116,12 +1116,6 @@
     "description": "Tuesday, December 8, 2026, 11:30am - 12:45pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "DANC 123R 1 2400",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1380180972",
-    "event_id": "1380180972",
-    "description": "Tuesday, December 8, 2026, 1pm - 2:15pm Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "PE 167 1 4457",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411429848",
     "event_id": "1411429848",
@@ -1132,6 +1126,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1390003310",
     "event_id": "1390003310",
     "description": "Tuesday, December 8, 2026, 1pm - 2:15pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "DANC 123R 1 2400",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1380180972",
+    "event_id": "1380180972",
+    "description": "Tuesday, December 8, 2026, 1pm - 2:15pm Woodruff PE Center - Dance Studio"
   },
   {
     "title": "PE 112 1 4495",
