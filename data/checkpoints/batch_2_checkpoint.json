@@ -708,6 +708,12 @@
     "description": "Tuesday, November 24, 2026, 8:30am - 9:45am Woodruff PE Center Aerobics Room"
   },
   {
+    "title": "Safety Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1466766668",
+    "event_id": "1466766668",
+    "description": "Tuesday, November 24, 2026, 9:30am - 10am Woodruff PE Center 2nd conference room"
+  },
+  {
     "title": "PE 161 1 3363",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411429834",
     "event_id": "1411429834",
@@ -1206,6 +1212,12 @@
     "description": "Tuesday, December 1, 2026, 8:30am - 9:45am Woodruff PE Center Aerobics Room"
   },
   {
+    "title": "Safety Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1466766669",
+    "event_id": "1466766669",
+    "description": "Tuesday, December 1, 2026, 9:30am - 10am Woodruff PE Center 2nd conference room"
+  },
+  {
     "title": "PE 161 1 3363",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411429839",
     "event_id": "1411429839",
@@ -1327,15 +1339,15 @@
   },
   {
     "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
-    "event_id": "1440754425",
-    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
-  },
-  {
-    "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
     "event_id": "1440754426",
     "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
+    "event_id": "1440754425",
+    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "KettleBell Strength Lab (Noni)",
