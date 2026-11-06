@@ -1488,15 +1488,15 @@
     "description": "Thursday, December 17, 2026, 11:30am - 2pm Woodruff PE Center Aerobics Room"
   },
   {
-    "title": "EXAM: DANC 150R 1 2402",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440167338",
-    "event_id": "1440167338",
-    "description": "Thursday, December 17, 2026, 3pm - 5:30pm Woodruff PE Center - Dance Studio"
-  },
-  {
     "title": "EXAM: PE 194 2 4465",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440167050",
     "event_id": "1440167050",
     "description": "Thursday, December 17, 2026, 3pm - 5:30pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "EXAM: DANC 150R 1 2402",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440167338",
+    "event_id": "1440167338",
+    "description": "Thursday, December 17, 2026, 3pm - 5:30pm Woodruff PE Center - Dance Studio"
   }
 ]
