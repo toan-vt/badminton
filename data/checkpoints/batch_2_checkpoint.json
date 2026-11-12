@@ -1,41 +1,5 @@
 [
   {
-    "title": "PE 130 1 3378",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411430685",
-    "event_id": "1411430685",
-    "description": "Tuesday, November 24, 2026, 1pm - 2:15pm Woodruff PE Center Aerobics Room"
-  },
-  {
-    "title": "PE 194 2 4465",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411429836",
-    "event_id": "1411429836",
-    "description": "Tuesday, November 24, 2026, 2:30pm - 3:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
-    "title": "DANC 150R 1 2402",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1380180948",
-    "event_id": "1380180948",
-    "description": "Tuesday, November 24, 2026, 2:30pm - 3:45pm Woodruff PE Center - Dance Studio"
-  },
-  {
-    "title": "WSOC Practice Hold",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411046387",
-    "event_id": "1411046387",
-    "description": "Tuesday, November 24, 2026, 4pm - 6pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
-  },
-  {
-    "title": "VB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1423508314",
-    "event_id": "1423508314",
-    "description": "Tuesday, November 24, 2026, 4pm - 6:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
-  },
-  {
-    "title": "Align & Flow Yoga (Stacy)",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421118905",
-    "event_id": "1421118905",
-    "description": "Tuesday, November 24, 2026, 4:30pm - 5:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
     "title": "KettleBell Strength Lab (Noni)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421171511",
     "event_id": "1421171511",
@@ -358,6 +322,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769344",
     "event_id": "1417769344",
     "description": "Monday, November 30, 2026, 7pm - 8:30pm Woodruff PE Center Auxillary Court 2"
+  },
+  {
+    "title": "APISA Celebration",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1470791336",
+    "event_id": "1470791336",
+    "description": "Monday, November 30, 2026, 7pm - 8:30pm Woodruff PE Center Large class room"
   },
   {
     "title": "TNT Weekly Rehearsal",
@@ -1186,5 +1156,23 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1429061944",
     "event_id": "1429061944",
     "description": "Thursday, December 3, 2026, 8:45pm - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Yoga-lates (Melissa)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421347954",
+    "event_id": "1421347954",
+    "description": "Friday, December 4, 2026, 7:15am - 8:05am Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
+  },
+  {
+    "title": "Track & Field Throws Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1398305789",
+    "event_id": "1398305789",
+    "description": "Friday, December 4, 2026, 7:30am - 3pm Woodruff PE Center Mcdonough Field"
+  },
+  {
+    "title": "EDC",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426414466",
+    "event_id": "1426414466",
+    "description": "Friday, December 4, 2026, 11am - 3pm Woodruff PE Center - Dance Studio"
   }
 ]
