@@ -1,11 +1,5 @@
 [
   {
-    "title": "CS Swimming",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769703",
-    "event_id": "1417769703",
-    "description": "Monday, November 30, 2026, 7pm - 8:30pm Woodruff PE Center Pool lap lane"
-  },
-  {
     "title": "CS Fencing",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769224",
     "event_id": "1417769224",
@@ -181,15 +175,15 @@
   },
   {
     "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
-    "event_id": "1440754426",
-    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
-  },
-  {
-    "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
     "event_id": "1440754425",
     "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
+    "event_id": "1440754426",
+    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "KettleBell Strength Lab (Noni)",
@@ -400,6 +394,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1380180961",
     "event_id": "1380180961",
     "description": "Wednesday, December 2, 2026, 2:30pm - 3:45pm Woodruff PE Center - Dance Studio"
+  },
+  {
+    "title": "Aikido Tranings",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1472785332",
+    "event_id": "1472785332",
+    "description": "Wednesday, December 2, 2026, 3:30pm - 5:20pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
   },
   {
     "title": "Marketing Team Office Hours",
@@ -1006,5 +1006,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1470791337",
     "event_id": "1470791337",
     "description": "Saturday, December 5, 2026, 11:30am - 12:30pm Woodruff PE Center Large class room"
+  },
+  {
+    "title": "Barre Sculpt (Avery)",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421171525",
+    "event_id": "1421171525",
+    "description": "Saturday, December 5, 2026, 11:30am - 12:20pm Woodruff PE Center Aerobics Room"
   }
 ]
