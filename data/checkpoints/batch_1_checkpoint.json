@@ -1,5 +1,11 @@
 [
   {
+    "title": "CS WSOC",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417740527",
+    "event_id": "1417740527",
+    "description": "Thursday, November 19, 2026, 7:15pm - 8:30pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
+  },
+  {
     "title": "Emory Crew Board Meeting",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1443537159",
     "event_id": "1443537159",
@@ -40,12 +46,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1429061943",
     "event_id": "1429061943",
     "description": "Thursday, November 19, 2026, 8:45pm - 10:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
-    "title": "VB NCAA Hold",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1398789814",
-    "event_id": "1398789814",
-    "description": "Friday, November 20, 2026, 6am - 11:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "Yoga-lates (Melissa)",
@@ -196,12 +196,6 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426630607",
     "event_id": "1426630607",
     "description": "Friday, November 20, 2026, 6:45pm - 8:45pm Woodruff PE Center Aerobics Room"
-  },
-  {
-    "title": "VB NCAA Hold",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1398789815",
-    "event_id": "1398789815",
-    "description": "Saturday, November 21, 2026, 6am - 11:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "Track & Field Throws Practice",
@@ -1012,5 +1006,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769703",
     "event_id": "1417769703",
     "description": "Monday, November 30, 2026, 7pm - 8:30pm Woodruff PE Center Pool lap lane"
+  },
+  {
+    "title": "CS Fencing",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769224",
+    "event_id": "1417769224",
+    "description": "Monday, November 30, 2026, 7pm - 9pm Woodruff PE Center Court #4"
   }
 ]
