@@ -306,6 +306,12 @@
     "description": "Wednesday, November 18, 2026, 8am - 11:30pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
+    "title": "Eagle EDGE",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1473570760",
+    "event_id": "1473570760",
+    "description": "Wednesday, November 18, 2026, 8:30am - 10am Woodruff PE Center Large class room"
+  },
+  {
     "title": "PE Tennis",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1418490406",
     "event_id": "1418490406",
@@ -952,11 +958,5 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1429149056",
     "event_id": "1429149056",
     "description": "Friday, November 20, 2026, 6pm - 8pm Woodruff PE Center - Dance Studio"
-  },
-  {
-    "title": "W.A.V.E. Swim Lessons",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1443226078",
-    "event_id": "1443226078",
-    "description": "Friday, November 20, 2026, 6pm - 7pm Woodruff PE Center Pool lap lane"
   }
 ]
