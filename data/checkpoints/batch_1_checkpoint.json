@@ -1,11 +1,5 @@
 [
   {
-    "title": "Emory Suri Rehearsals",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427268146",
-    "event_id": "1427268146",
-    "description": "Sunday, November 22, 2026, 5pm - 7:45pm Woodruff PE Center Aerobics Room"
-  },
-  {
     "title": "Rise & Ride (Laniah)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421170168",
     "event_id": "1421170168",
@@ -799,15 +793,15 @@
   },
   {
     "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
-    "event_id": "1440754425",
-    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
-  },
-  {
-    "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
     "event_id": "1440754426",
     "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
+    "event_id": "1440754425",
+    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "KettleBell Strength Lab (Noni)",
@@ -886,5 +880,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769225",
     "event_id": "1417769225",
     "description": "Tuesday, December 1, 2026, 7pm - 9pm Woodruff PE Center Court #4"
+  },
+  {
+    "title": "Eagle EDGE",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1464941998",
+    "event_id": "1464941998",
+    "description": "Tuesday, December 1, 2026, 7:30pm - 8:30pm Woodruff PE Center Large class room"
   }
 ]

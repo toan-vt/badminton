@@ -582,12 +582,6 @@
     "description": "Friday, November 20, 2026, 12pm - 1pm Woodruff PE Center Large class room"
   },
   {
-    "title": "MTEN Meeting",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1473233113",
-    "event_id": "1473233113",
-    "description": "Friday, November 20, 2026, 12pm - 1:30pm Woodruff PE Center small class room"
-  },
-  {
     "title": "Stroll Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1430077254",
     "event_id": "1430077254",
@@ -828,6 +822,12 @@
     "description": "Sunday, November 22, 2026, 11:30am - 12:20pm Woodruff PE Center Aerobics Room"
   },
   {
+    "title": "MTEN Meeting",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1473764129",
+    "event_id": "1473764129",
+    "description": "Sunday, November 22, 2026, 12pm - 1:30pm Woodruff PE Center small class room"
+  },
+  {
     "title": "SaRaas Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1429081988",
     "event_id": "1429081988",
@@ -885,6 +885,12 @@
     "title": "Emory Suri Rehearsals",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427277948",
     "event_id": "1427277948",
+    "description": "Sunday, November 22, 2026, 5pm - 7:45pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "Emory Suri Rehearsals",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427268146",
+    "event_id": "1427268146",
     "description": "Sunday, November 22, 2026, 5pm - 7:45pm Woodruff PE Center Aerobics Room"
   }
 ]
