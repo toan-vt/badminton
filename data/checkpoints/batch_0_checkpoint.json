@@ -492,6 +492,12 @@
     "description": "Thursday, November 19, 2026, 7pm - 8:30pm Woodruff PE Center Pool lap lane"
   },
   {
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1473904444",
+    "event_id": "1473904444",
+    "description": "Thursday, November 19, 2026, 7pm - 9:30pm Woodruff PE Center Court #3"
+  },
+  {
     "title": "CS WSOC",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417740527",
     "event_id": "1417740527",
@@ -676,6 +682,12 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417769221",
     "event_id": "1417769221",
     "description": "Friday, November 20, 2026, 6pm - 9pm "
+  },
+  {
+    "title": "CS Badminton",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1473904445",
+    "event_id": "1473904445",
+    "description": "Friday, November 20, 2026, 6:30pm - 8:30pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
   },
   {
     "title": "CS Badminton",
@@ -880,17 +892,5 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1426819595",
     "event_id": "1426819595",
     "description": "Sunday, November 22, 2026, 4:45pm - 7:45pm Woodruff PE Center multipurpose room, wrestling,aerobics,yoga,martial arts"
-  },
-  {
-    "title": "Emory Suri Rehearsals",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427277948",
-    "event_id": "1427277948",
-    "description": "Sunday, November 22, 2026, 5pm - 7:45pm Woodruff PE Center Aerobics Room"
-  },
-  {
-    "title": "Emory Suri Rehearsals",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427268146",
-    "event_id": "1427268146",
-    "description": "Sunday, November 22, 2026, 5pm - 7:45pm Woodruff PE Center Aerobics Room"
   }
 ]
