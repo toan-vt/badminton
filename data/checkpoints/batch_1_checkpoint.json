@@ -114,12 +114,6 @@
     "description": "Tuesday, December 1, 2026, 3pm - 4:30pm Woodruff PE Center Indoor Tennis court #7 (roof), Woodruff PE Center Indoor Tennis court #8 (roof), Woodruff PE Center Indoor Tennis court #9 (roof), Woodruff PE Center Indoor Tennis court #10 (roof), Woodruff PE Center Indoor Tennis Court  #11,…"
   },
   {
-    "title": "WSOC Practice Hold",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1411046388",
-    "event_id": "1411046388",
-    "description": "Tuesday, December 1, 2026, 4pm - 6pm Woodruff PE Center Candler Field #3, Woodruff PE Center Candler Field #4"
-  },
-  {
     "title": "Align & Flow Yoga (Stacy)",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1421118910",
     "event_id": "1421118910",
@@ -127,15 +121,15 @@
   },
   {
     "title": "MBB Practice",
-    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
-    "event_id": "1440754426",
-    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
-  },
-  {
-    "title": "MBB Practice",
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754425",
     "event_id": "1440754425",
     "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #3, Woodruff PE Center Court #4"
+  },
+  {
+    "title": "MBB Practice",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1440754426",
+    "event_id": "1440754426",
+    "description": "Tuesday, December 1, 2026, 4:30pm - 7pm Woodruff PE Center Court #2, Woodruff PE Center Court #1"
   },
   {
     "title": "KettleBell Strength Lab (Noni)",
@@ -670,5 +664,11 @@
     "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1427027358",
     "event_id": "1427027358",
     "description": "Thursday, December 3, 2026, 5:30pm - 6:15pm Woodruff PE Center Aerobics Room"
+  },
+  {
+    "title": "CS Ultimate - JUICE",
+    "url": "https://25livepub.collegenet.com/calendars/25live-woodpec-cal?trumbaEmbed=view%3Devent%26eventid%3D1417740540",
+    "event_id": "1417740540",
+    "description": "Thursday, December 3, 2026, 6pm - 6:30pm Woodruff  PE Center Candler Field #1, Woodruff PE Center Candler Field #2"
   }
 ]
